@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faadcf32-3af8-405a-9a8c-60abbb5fcb81" name="Default" comment="" />
+    <list default="true" id="faadcf32-3af8-405a-9a8c-60abbb5fcb81" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/rabbitMQ.png" beforeDir="false" afterPath="$PROJECT_DIR$/md/rabbitMQ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/readme.MD" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/helloworld/target/" />
@@ -19,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/readme.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="126">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <first_editor relative-caret-position="168">
+                <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
               </first_editor>
               <second_editor />
             </state>
@@ -34,6 +39,9 @@
       <find>rabbitMQ</find>
       <find>tabb</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -103,6 +111,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -121,7 +130,42 @@
             <path>
               <item name="xiceos-spring-amqp-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="xiceos-spring-amqp-samples" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiceos-spring-amqp-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiceos-spring-amqp-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiceos-spring-amqp-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiceos-spring-amqp-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiceos-spring-amqp-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiceos-spring-amqp-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiceos-spring-amqp-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiceos-spring-amqp-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xiceos-spring-amqp-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xiceos-spring-amqp-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rabbitmq" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="xiceos-spring-amqp-samples" type="b2602c69:ProjectViewProjectNode" />
@@ -221,12 +265,12 @@
       <updated>1546574133277</updated>
       <workItem from="1546574137571" duration="1441000" />
       <workItem from="1546575596915" duration="73000" />
-      <workItem from="1546581814492" duration="699000" />
+      <workItem from="1546581814492" duration="1159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2213000" />
+    <option name="totallyTimeSpent" value="2673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-1088" width="1936" height="1066" extended-state="6" />
@@ -240,7 +284,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.26545843" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -553,8 +597,8 @@
     <entry file="file://$PROJECT_DIR$/readme.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <first_editor relative-caret-position="168">
+            <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
           </first_editor>
           <second_editor />
         </state>

@@ -3,4 +3,10 @@
 
 `模式：`
 
-![Image text](image/rabbitMQ.png)
+![Image text](md/rabbitMQ.png)
+
+查看 rabbitMQ linux 运行版
+<a href="https://github.com/lmmqxyx-zwp/rabbitMQ" style="color: red;"> `rabbitMQ`</a>
+
+# helloword
+spring boot 实例
