@@ -3,4 +3,4 @@
 
 `模式：`
 
-![Image text](iamge/rabbitMQ.png)
+![Image text](image/rabbitMQ.png)
